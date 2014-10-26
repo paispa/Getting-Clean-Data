@@ -1,0 +1,76 @@
+---
+title: "README.md"
+author: "Prashanth Pais"
+date: "Sunday, October 26, 2014"
+output: html_document
+---
+
+##This code downloads the UCI HAR Dataset from the net and then creates a tidy data set - Avg_tidy_data.txt; which has the following columns:
+* Activity
+* Subject
+* Avg_Of_tBodyAcc_mean_X
+* Avg_Of_tBodyAcc_mean_Y
+* Avg_Of_tBodyAcc_mean_Z
+* Avg_Of_tBodyAcc_std_X
+* Avg_Of_tBodyAcc_std_Y
+* Avg_Of_tBodyAcc_std_Z
+* Avg_Of_tGravityAcc_mean_X
+* Avg_Of_tGravityAcc_mean_Y
+* Avg_Of_tGravityAcc_mean_Z
+* Avg_Of_tGravityAcc_std_X
+* Avg_Of_tGravityAcc_std_Y
+* Avg_Of_tGravityAcc_std_Z
+* Avg_Of_tBodyAccJerk_mean_X
+* Avg_Of_tBodyAccJerk_mean_Y
+* Avg_Of_tBodyAccJerk_mean_Z
+* Avg_Of_tBodyAccJerk_std_X
+* Avg_Of_tBodyAccJerk_std_Y
+* Avg_Of_tBodyAccJerk_std_Z
+* Avg_Of_tBodyGyro_mean_X
+* Avg_Of_tBodyGyro_mean_Y
+* Avg_Of_tBodyGyro_mean_Z
+* Avg_Of_tBodyGyro_std_X
+* Avg_Of_tBodyGyro_std_Y
+* Avg_Of_tBodyGyro_std_Z
+* Avg_Of_tBodyGyroJerk_mean_X
+* Avg_Of_tBodyGyroJerk_mean_Y
+* Avg_Of_tBodyGyroJerk_mean_Z
+* Avg_Of_tBodyGyroJerk_std_X
+* Avg_Of_tBodyGyroJerk_std_Y
+* Avg_Of_tBodyGyroJerk_std_Z
+* Avg_Of_tBodyAccMag_mean
+* Avg_Of_tBodyAccMag_std
+* Avg_Of_tGravityAccMag_mean
+* Avg_Of_tGravityAccMag_std
+* Avg_Of_tBodyAccJerkMag_mean
+* Avg_Of_tBodyAccJerkMag_std
+* Avg_Of_tBodyGyroMag_mean
+* Avg_Of_tBodyGyroMag_std
+* Avg_Of_tBodyGyroJerkMag_mean
+* Avg_Of_tBodyGyroJerkMag_std
+* Avg_Of_fBodyAcc_mean_X
+* Avg_Of_fBodyAcc_mean_Y
+* Avg_Of_fBodyAcc_mean_Z
+* Avg_Of_fBodyAcc_std_X
+* Avg_Of_fBodyAcc_std_Y
+* Avg_Of_fBodyAcc_std_Z
+* Avg_Of_fBodyAccJerk_mean_X
+* Avg_Of_fBodyAccJerk_mean_Y
+* Avg_Of_fBodyAccJerk_mean_Z
+* Avg_Of_fBodyAccJerk_std_X
+* Avg_Of_fBodyAccJerk_std_Y
+* Avg_Of_fBodyAccJerk_std_Z
+* Avg_Of_fBodyGyro_mean_X
+* Avg_Of_fBodyGyro_mean_Y
+* Avg_Of_fBodyGyro_mean_Z
+* Avg_Of_fBodyGyro_std_X
+* Avg_Of_fBodyGyro_std_Y
+* Avg_Of_fBodyGyro_std_Z
+* Avg_Of_fBodyAccMag_mean
+* Avg_Of_fBodyAccMag_std
+* Avg_Of_fBodyBodyAccJerkMag_mean
+* Avg_Of_fBodyBodyAccJerkMag_std
+* Avg_Of_fBodyBodyGyroMag_mean
+* Avg_Of_fBodyBodyGyroMag_std
+* Avg_Of_fBodyBodyGyroJerkMag_mean
+* Avg_Of_fBodyBodyGyroJerkMag_std
